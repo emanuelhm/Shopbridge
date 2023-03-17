@@ -1,2 +1,9 @@
-# Shopbridge_Base
-This repository contains a .Net Standard 5 and C# solution, which can be used as a base to start upon, for the backend shopbridge assignment.
+# Shopbridge
+
+This is an API used to CRUD basic informations about Products from Shopbridge.
+
+Unlike the base project, this application was build using the .net 6 LTS.
+
+Some other implementations where also performed like:
+* It's now possible to create tags and categories and link them to a specific product
+* When 
