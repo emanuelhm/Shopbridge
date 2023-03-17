@@ -13,4 +13,5 @@ Unlike the base project, this application was build using the .net 6 LTS.
 * Automapper was used to easily transfer data throut the entity to Dtos;
 * Cloudinary is a CDN that also is capable of storing and easily manipulating images. It was used because of its high limitations even in free tier, high security, possiblity of realtime image manipualtion and ease of use.
 
-## **IMPORTANT!** The ".env" file and connection string where omited for security reasons!
+## **IMPORTANT!** 
+The ".env" file and connection string where omited for security reasons!
